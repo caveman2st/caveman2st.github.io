@@ -1,0 +1,10 @@
+A         {color:#CCCCCC};
+A:visited {color:blue};
+A:hover	  {color:red};
+A         {text-decoration:none}; 
+
+BODY, TD, P {font-family: Arial, Verdana, Tahoma, MS Sans Serif, Helvetica};
+BODY, TD, P {line-height: 1.4; font-size: 12pt; letter-spacing: 0,4pt};
+BODY, TD, P {color:#CCCCCC};
+
+
